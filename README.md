@@ -5,7 +5,7 @@
 | Rank            |  1                 |  6                  |
 | Score (RMSE)    |  4.21905           |  3.28562            |
 
-Summary:
+Summary: should trust CV more than public leaderboard
 
 # <a href="https://www.kaggle.com/c/stat440-20-module2" target="_blank">Sassafras</a>
 
